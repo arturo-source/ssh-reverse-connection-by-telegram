@@ -12,3 +12,6 @@ I could use a **for** statement so the telegram bot would be listening all the t
 # m h  dom mon dow   command
 * * * * * python3 /path/to/script/ssh_connect.py
 ```
+
+## So, what to do?
+You only have to set the variables, your user_id is used because I want that only you can init your SSH reverse conection, all the variables are descriptives enought. Then, after configuring the bot, you only have to say ```/ssh``` to your bot.
